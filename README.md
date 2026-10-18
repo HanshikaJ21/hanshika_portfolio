@@ -3,7 +3,8 @@
 A mostly single-file portfolio (HTML + CSS + JS, no build step) with a Vercel serverless chat API.
 
 ## Files
-- `index.html`: the whole site (images are embedded, so nothing else is needed to run it)
+- `index.html`: the site markup, styles and scripts
+- `images/live-work/`: optimized screenshots used as live-work card previews
 - `api/chat.js`: Vercel serverless function for the AI chat
 - `Hanshika_Jasuja_Resume.pdf`: served by the Resume buttons
 
