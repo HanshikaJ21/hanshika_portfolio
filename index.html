@@ -130,7 +130,7 @@ main,footer{position:relative;z-index:1}
 .cloud span{position:absolute;left:50%;top:50%;padding:6px 14px;border-radius:99px;font-weight:700;font-size:14px;white-space:nowrap;box-shadow:var(--sh);color:var(--ink);will-change:transform}
 @media(max-width:820px){.hero{padding:28px 0 8px}.cloud{height:320px}.cloud span{font-size:12.5px;padding:5px 11px}}
 </style></head><body>
-<nav><b>HJ 🌸</b><div><a href="#work">Work</a><a href="#career">Career</a><a href="#resume">Resume</a><a href="#contact">Hire me</a></div><button id="th" aria-label="Toggle dark mode">🌙</button></nav>
+<nav><b>HJ 🌸</b><div><a href="#work">Work</a><a href="#live-work">Sites</a><a href="#career">Career</a><a href="#resume">Resume</a><a href="#contact">Hire me</a></div><button id="th" aria-label="Toggle dark mode">🌙</button></nav>
 <div id="fx" aria-hidden="true"><i class="ob o1"></i><i class="ob o2"></i><i class="ob o3"></i><i class="ob o4"></i><i class="ob o5"></i></div><div id="cu" aria-hidden="true"></div>
 <main class="w">
 <header class="hero">
@@ -158,6 +158,17 @@ main,footer{position:relative;z-index:1}
 <div class="f" id="flt"></div><p id="project-status" role="status" aria-live="polite">Loading the four latest projects from GitHub…</p><div class="grid" id="pg"></div>
 <p style="margin-top:22px"><a class="b s" href="https://github.com/HanshikaJ21" target="_blank" rel="noopener">More on GitHub →</a></p></section>
 
+<section id="live-work"><h2>Live work</h2><p class="sub">Websites I've built and shipped. Visit the live sites below.</p>
+<div class="grid">
+<article class="card"><h3>Birbal</h3><p>Live website</p><a class="b s" href="https://birbal.tech/" target="_blank" rel="noopener noreferrer">Visit birbal.tech ↗</a></article>
+<article class="card"><h3>Nestspace Architects</h3><p>Live website</p><a class="b s" href="https://nestspacearchitects.com/" target="_blank" rel="noopener noreferrer">Visit nestspacearchitects.com ↗</a></article>
+<article class="card"><h3>Raven Haircare</h3><p>Live website</p><a class="b s" href="https://ravenhaircare.com/" target="_blank" rel="noopener noreferrer">Visit ravenhaircare.com ↗</a></article>
+<article class="card"><h3>Gehna Jewellers</h3><p>Live website</p><a class="b s" href="https://gehnajewellers.com/" target="_blank" rel="noopener noreferrer">Visit gehnajewellers.com ↗</a></article>
+<article class="card"><h3>Pias Faux</h3><p>Live website</p><a class="b s" href="https://piasfaux.in/" target="_blank" rel="noopener noreferrer">Visit piasfaux.in ↗</a></article>
+<article class="card"><h3>OneSoul Life</h3><p>Live website</p><a class="b s" href="https://onesoullife.com/" target="_blank" rel="noopener noreferrer">Visit onesoullife.com ↗</a></article>
+<article class="card"><h3>RawwGear</h3><p>Live website</p><a class="b s" href="https://rawwgear.com/" target="_blank" rel="noopener noreferrer">Visit rawwgear.com ↗</a></article>
+</div></section>
+
 <section id="career"><h2>Experience</h2><p class="sub">Production work across e-commerce, frontend and automation.</p><div class="tl" id="tl"></div></section>
 
 <section><h2>Skills</h2><p class="sub">The toolbox I reach for.</p><div class="cloud" id="cloud" role="img" aria-label="Skills cloud"></div><div class="sk" id="sk"></div></section>
@@ -167,7 +178,7 @@ main,footer{position:relative;z-index:1}
 <div class="row" style="justify-content:center;margin-top:20px"><button class="b p dlb">⬇ Download resume (PDF)</button></div></section>
 
 <section id="contact" class="ct"><h2>Let's work together</h2><p class="sub">Hiring or have a project? Let's talk.</p><div class="av"><span>⏱ 15-day notice period</span><span>💼 Freelance anytime</span><span>🌍 Remote · Mumbai · Bengaluru · Pune</span></div>
-<div class="row"><a class="b p" href="mailto:hanshikajasuja21@gmail.com">✉ Email me</a><a class="b s" href="https://linkedin.com/in/hanshika-jasuja-123082214/" target="_blank" rel="noopener">LinkedIn</a><a class="b s" href="https://github.com/HanshikaJ21" target="_blank" rel="noopener">GitHub</a></div></section>
+<div class="row"><a class="b p" href="mailto:hanshikaworks55@gmail.com">✉ Email me</a><a class="b s" href="https://linkedin.com/in/hanshika-jasuja-123082214/" target="_blank" rel="noopener">LinkedIn</a><a class="b s" href="https://github.com/HanshikaJ21" target="_blank" rel="noopener">GitHub</a></div></section>
 </main>
 <footer>© 2026 Hanshika Jasuja · Mumbai, India</footer>
 
@@ -213,7 +224,7 @@ async function loadGithubProjects(){const status=$('#project-status');try{const 
 loadGithubProjects();
 $('#tl').innerHTML=D.x.map(x=>`<div class="card"><small>${x.w}</small><h3>${x.r}</h3><p style="margin:0">${x.c}</p><ul>${x.b.map(b=>`<li>${b}</li>`).join('')}</ul><div class="rs">${x.m.map(m=>`<span>${m}</span>`).join('')}</div></div>`).join('');
 $('#sk').innerHTML=Object.entries(D.s).map(([k,v])=>`<div class="card"><h3>${k}</h3>${tags(v.split(', '))}</div>`).join('');
-$('#cv').innerHTML=`<h3>Hanshika Jasuja</h3><p>Software Engineer · Mumbai, India (Open to Remote)</p><div class="ln"><a href="mailto:hanshikajasuja21@gmail.com">hanshikajasuja21@gmail.com</a><a href="https://linkedin.com/in/hanshika-jasuja-123082214/" target="_blank" rel="noopener">LinkedIn</a><a href="https://github.com/HanshikaJ21" target="_blank" rel="noopener">GitHub</a><a href="https://hanshika-portfolio.vercel.app" target="_blank" rel="noopener">hanshika-portfolio.vercel.app</a></div>
+$('#cv').innerHTML=`<h3>Hanshika Jasuja</h3><p>Software Engineer · Mumbai, India (Open to Remote)</p><div class="ln"><a href="mailto:hanshikaworks55@gmail.com">hanshikaworks55@gmail.com</a><a href="https://linkedin.com/in/hanshika-jasuja-123082214/" target="_blank" rel="noopener">LinkedIn</a><a href="https://github.com/HanshikaJ21" target="_blank" rel="noopener">GitHub</a><a href="https://hanshika-portfolio.vercel.app" target="_blank" rel="noopener">hanshika-portfolio.vercel.app</a></div>
 <h4>Summary</h4><p>Software Engineer with 2+ years of experience building and maintaining production web applications using PHP, JavaScript/TypeScript, React and Node.js. Experienced in REST API integration, MySQL/PostgreSQL, debugging, performance optimization, testing and deployment, with Python automation and ETL experience.</p>
 <h4>Experience</h4><ul>${D.x.map(x=>`<li><b>${x.r}</b>, ${x.c} (${x.w})</li>`).join('')}</ul>
 <h4>Education</h4><ul><li>B.E. Information Technology, VESIT Mumbai (2020–2023)</li><li>Diploma in Computer Engineering, VES Polytechnic Mumbai (2017–2020)</li></ul>
@@ -251,18 +262,18 @@ const io='IntersectionObserver'in window?new IntersectionObserver(es=>es.forEach
 if(io)document.querySelectorAll('.card,section h2,.stats').forEach(e=>{e.classList.add('rv');io.observe(e)});
 // assistant: general AI answers through the Vercel API, with resume-based fallback
 $('#av').src=$('#av2').src=$('#bg').src;
-const facts=()=>JSON.stringify({name:'Hanshika Jasuja',role:'Software Engineer',location:'Mumbai, India',availability:{noticePeriod:'15 days',freelance:'available for freelance work anytime',workMode:'open to remote work and to roles in Mumbai (her current city), Bengaluru and Pune'},email:'hanshikajasuja21@gmail.com',linkedin:'linkedin.com/in/hanshika-jasuja-123082214',github:'github.com/HanshikaJ21',skills:D.s,experience:D.x,projects:D.p.map(p=>({name:p.n,about:p.d,tech:p.t,live:p.l||null,code:p.g||null})),education:['B.E. Information Technology, VESIT Mumbai (2020-2023)','Diploma in Computer Engineering, VES Polytechnic Mumbai (2017-2020)'],certifications:['React.js Certification','Web Development Certification (Maharashtra Technical & Self-Employment Training Society)','2nd Prize, Technical Paper Presentation']});
+const facts=()=>JSON.stringify({name:'Hanshika Jasuja',role:'Software Engineer',location:'Mumbai, India',availability:{noticePeriod:'15 days',freelance:'available for freelance work anytime',workMode:'open to remote work and to roles in Mumbai (her current city), Bengaluru and Pune'},email:'hanshikaworks55@gmail.com',linkedin:'linkedin.com/in/hanshika-jasuja-123082214',github:'github.com/HanshikaJ21',skills:D.s,experience:D.x,projects:D.p.map(p=>({name:p.n,about:p.d,tech:p.t,live:p.l||null,code:p.g||null})),liveWebsites:[{name:'Birbal',url:'https://birbal.tech/'},{name:'Nestspace Architects',url:'https://nestspacearchitects.com/'},{name:'Raven Haircare',url:'https://ravenhaircare.com/'},{name:'Gehna Jewellers',url:'https://gehnajewellers.com/'},{name:'Pias Faux',url:'https://piasfaux.in/'},{name:'OneSoul Life',url:'https://onesoullife.com/'},{name:'RawwGear',url:'https://rawwgear.com/'}],education:['B.E. Information Technology, VESIT Mumbai (2020-2023)','Diploma in Computer Engineering, VES Polytechnic Mumbai (2017-2020)'],certifications:['React.js Certification','Web Development Certification (Maharashtra Technical & Self-Employment Training Society)','2nd Prize, Technical Paper Presentation']});
 const hist=[];
 async function ai(q){const r=await fetch('/api/chat',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({message:q,history:hist.slice(-6),facts:facts()})});const d=await r.json();if(!r.ok)throw new Error(d.error||`Chat request failed (${r.status}).`);if(typeof d.answer!='string'||!d.answer.trim())throw new Error('The AI assistant returned an empty answer.');return d.answer.trim()}
 const KB=[[/resume|cv|download/,'You can grab her resume as a PDF with the Download button, or scroll to the Resume section.'],
-[/freelanc|contract|gig|part.?time/,'Yes, Hanshika is available for freelance work anytime. Email hanshikajasuja21@gmail.com to get started.'],
+[/freelanc|contract|gig|part.?time/,'Yes, Hanshika is available for freelance work anytime. Email hanshikaworks55@gmail.com to get started.'],
 [/notice|join|availab|start|when/,'Hanshika has a 15-day notice period and can also freelance anytime.'],
 [/project|built|build|github|demo|best/,'Highlights:\n• AI Product Analytics Copilot: React, TypeScript, Supabase, JWT auth, LLM query engine.\n• Apartment Price Tracker: Python ETL tracking 500+ listings weekly.\n• AI Resume Verifier: Next.js + FastAPI.\n• Loan Prediction System: ~92% accurate Flask API.'],
 [/experien|job|compan|career|role|rawwgear|onesoul|osr/,'2+ years:\n• Web Developer, RawwGear (Mar 2025 – now)\n• Frontend Engineer, OneSoul (Dec 2024 – Mar 2025)\n• Web Developer & Automation Engineer, OSR Web Services (Jul – Dec 2024)'],
 [/skill|stack|tech|language|react|php|node|python|java|html|css|tool/,'HTML, CSS, JavaScript/TypeScript, React.js, PHP, Python, Java, C, C++, AI/ML, Node.js, MySQL, PostgreSQL/Supabase, WordPress/WooCommerce, Git and CI/CD.'],
 [/reloc|remote|where|locat|mumbai|bengaluru|bangalore|pune|city/,'Hanshika is open to remote work and to roles in Mumbai (where she is based), Bengaluru and Pune.'],
 [/educat|degree|college|study|school|certif/,'B.E. in Information Technology (VESIT Mumbai, 2020–2023) and a Diploma in Computer Engineering (VES Polytechnic, 2017–2020). Certified in React.js and web development.'],
-[/contact|email|reach|hire|linkedin|talk/,'Email: hanshikajasuja21@gmail.com\nLinkedIn: linkedin.com/in/hanshika-jasuja-123082214\nGitHub: github.com/HanshikaJ21'],
+[/contact|email|reach|hire|linkedin|talk/,'Email: hanshikaworks55@gmail.com\nLinkedIn: linkedin.com/in/hanshika-jasuja-123082214\nGitHub: github.com/HanshikaJ21'],
 [/^(hi|hello|hey)\b|who|about/,'I\'m the assistant for Hanshika Jasuja, a software engineer with 2+ years of experience in PHP, JavaScript/TypeScript, React and Node.js, based in Mumbai.']];
 const chips=['Best projects?','Notice period?','Freelance?','Skills','Contact'];
 $('#cc').innerHTML=chips.map(c=>`<button type="button">${c}</button>`).join('');

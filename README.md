@@ -16,6 +16,7 @@ Run `npx vercel env pull .env.local` and then `npx vercel dev` to test the chat 
 
 ## Edit content
 Open `index.html` and search for `const D=`. Projects (`D.p`), experience (`D.x`) and skills (`D.s`) all live there.
+- The selected live websites and contact email are in the relevant sections of `index.html`.
 - Add a real project screenshot: give that project an `s:'images/name.png'` field and put the file in an `images/` folder. It replaces the drawn preview.
 - Result badges come from each item's `m:[...]` list.
 - Replace the PDF with a new resume of the same file name to update the download.
