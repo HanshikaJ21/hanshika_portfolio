@@ -66,12 +66,15 @@ module.exports = async function handler(req, res) {
       }
     );
 
+    const result = await response.json();
     if (!response.ok) {
-      console.error(`Gemini API returned HTTP ${response.status}.`);
+      const providerMessage = typeof result.error?.message === 'string'
+        ? result.error.message.slice(0, 500)
+        : response.statusText;
+      console.error(`Gemini API returned HTTP ${response.status}: ${providerMessage}`);
       return res.status(502).json({ error: 'The AI assistant is temporarily unavailable.' });
     }
 
-    const result = await response.json();
     const answer = result.candidates?.[0]?.content?.parts
       ?.map(part => part.text)
       .filter(text => typeof text === 'string')
