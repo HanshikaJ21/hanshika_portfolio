@@ -1,130 +1,1443 @@
-%PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%PDF-1.3
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R
+/PageMode /UseNone
+/Pages 2 0 R
+/Type /Catalog
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Count 1
+/Kids [ 3 0 R ]
+/Type /Pages
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R ]
+/Contents 11 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 12 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
 >>
 endobj
 4 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://linkedin.com/in/hanshika-jasuja-123082214/)
->> /Border [ 0 0 0 ] /Rect [ 110.6608 747.7099 269.0472 757.4803 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057linkedin\056com\057in\057hanshika\055jasuja\055123082214\057)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 110.6608 747.7099 269.0472 757.4803 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 5 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/HanshikaJ21)
->> /Border [ 0 0 0 ] /Rect [ 280.218 747.7099 369.3647 757.4803 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057HanshikaJ21)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 280.218 747.7099 369.3647 757.4803 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 6 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://hanshika-portfolio.vercel.app)
->> /Border [ 0 0 0 ] /Rect [ 380.5356 747.7099 484.6148 757.4803 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057hanshika\055portfolio\056vercel\056app)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 380.5356 747.7099 484.6148 757.4803 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 7 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://product-analytics-copilot.vercel.app)
->> /Border [ 0 0 0 ] /Rect [ 55.88241 284.9834 186.2578 294.9662 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057product\055analytics\055copilot\056vercel\056app)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 55.88241 284.9834 186.2578 294.9662 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 8 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/HanshikaJ21/product-analytics-copilot)
->> /Border [ 0 0 0 ] /Rect [ 222.1792 284.9834 405.2638 294.9662 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057HanshikaJ21\057product\055analytics\055copilot)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 222.1792 284.9834 405.2638 294.9662 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 9 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://apartmenttracker-seyd9ssqca2j5lrsprrkjq.streamlit.app)
->> /Border [ 0 0 0 ] /Rect [ 55.88241 220.7935 256.0542 230.7763 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057apartmenttracker\055seyd9ssqca2j5lrsprrkjq\056streamlit\056app)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 55.88241 220.7935 256.0542 230.7763 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 10 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://ai-resume-verifier-beta.vercel.app)
->> /Border [ 0 0 0 ] /Rect [ 55.88241 167.9317 180.2348 177.9145 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057ai\055resume\055verifier\055beta\056vercel\056app)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 55.88241 167.9317 180.2348 177.9145 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 11 0 obj
 <<
-/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R ] /Contents 15 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 14 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 
-  /Trans <<
-
->> /Type /Page
+/Length 15268
 >>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+1 0 0 1 36 782.8798 cm
+q
+0.078431 0.156863 0.294118 rg
+BT
+1 0 0 1 0 2.2125 Tm
+/F2 20.7975 Tf
+23.01 TL
+180.1428 0 Td
+(Hanshika Jasuja) Tj
+T*
+-180.1428 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 36 770.9323 cm
+q
+0.078431 0.156863 0.294118 rg
+BT
+1 0 0 1 0 2.2125 Tm
+/F2 9.735 Tf
+11.9475 TL
+104.4614 0 Td
+(Software Engineer \174 PHP \267 JavaScript \267 Node\056js \267 MySQL \267 REST APIs) Tj
+T*
+-104.4614 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 36 768.2773 cm
+Q
+q
+1 0 0 1 36 757.4803 cm
+q
+BT
+1 0 0 1 0 2.655 Tm
+106.1622 0 Td
+10.797 TL
+/F1 8.142 Tf
+0.266667 0.266667 0.266667 rg
+(Mumbai\054 India \050Open to Remote\051  ) Tj
+(\174) Tj
+(  hanshikaworks55\100gmail\056com  ) Tj
+(\174) Tj
+(  \05391\0557021687274) Tj
+T*
+-106.1622 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 36 746.6833 cm
+q
+BT
+1 0 0 1 0 2.655 Tm
+74.66084 0 Td
+10.797 TL
+/F1 8.142 Tf
+0.121569 0.305882 0.611765 rg
+(linkedin\056com\057in\057hanshika\055jasuja\055123082214\057) Tj
+0.266667 0.266667 0.266667 rg
+(  ) Tj
+(\174) Tj
+(  ) Tj
+0.121569 0.305882 0.611765 rg
+(github\056com\057HanshikaJ21) Tj
+0.266667 0.266667 0.266667 rg
+(  ) Tj
+(\174) Tj
+(  ) Tj
+0.121569 0.305882 0.611765 rg
+(hanshika\055portfolio\056vercel\056app) Tj
+T*
+-74.66084 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 36 740.045 cm
+Q
+q
+1 0 0 1 36 728.54 cm
+q
+0.078431 0.156863 0.294118 rg
+BT
+1 0 0 1 0 2.2125 Tm
+/F2 9.2925 Tf
+11.505 TL
+(PROFESSIONAL SUMMARY) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 36 727.74 cm
+q
+0.8 w
+1 J
+0.078431 0.156863 0.294118 RG
+n
+0 0 m
+523.2756 0 l
+S
+Q
+Q
+q
+1 0 0 1 36 682.428 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 36.462 Tm
+/F1 8.85 Tf
+11.328 TL
+(Software Engineer with 2\053 years of experience building and maintaining production web applications using PHP\054) Tj
+T*
+(JavaScript\057TypeScript\054 React and Node\056js\056 Experienced in REST API integration\054 MySQL\057PostgreSQL\054 debugging\054 performance) Tj
+T*
+(optimization\054 testing\054 deployment and maintenance\054 with Python automation and ETL experience\056 Built AI and data projects including) Tj
+T*
+(an LLM\055powered analytics platform with JWT authentication and CI\057CD\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 36 675.7897 cm
+Q
+q
+1 0 0 1 36 664.2847 cm
+q
+0.078431 0.156863 0.294118 rg
+BT
+1 0 0 1 0 2.2125 Tm
+/F2 9.2925 Tf
+11.505 TL
+(TECHNICAL SKILLS) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 36 663.4847 cm
+q
+0.8 w
+1 J
+0.078431 0.156863 0.294118 RG
+n
+0 0 m
+523.2756 0 l
+S
+Q
+Q
+q
+1 0 0 1 36 652.1567 cm
+q
+BT
+1 0 0 1 0 2.478 Tm
+11.328 TL
+/F2 8.85 Tf
+0 0 0 rg
+(Languages\072) Tj
+/F1 8.85 Tf
+( PHP\054 JavaScript \050ES6\053\051\054 TypeScript\054 Python\054 SQL\054 HTML5\054 CSS3) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 36 650.9175 cm
+Q
+q
+1 0 0 1 36 628.2615 cm
+q
+BT
+1 0 0 1 0 13.806 Tm
+11.328 TL
+/F2 8.85 Tf
+0 0 0 rg
+(Backend \046 APIs\072) Tj
+/F1 8.85 Tf
+( RESTful JSON APIs\054 PHP \050OOP\051\054 Flask\054 Node\056js \050working knowledge\051\054 JWT\054 OAuth \050basics\051\054 third\055party API) Tj
+T*
+(integrations) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 36 627.0223 cm
+Q
+q
+1 0 0 1 36 615.6943 cm
+q
+BT
+1 0 0 1 0 2.478 Tm
+11.328 TL
+/F2 8.85 Tf
+0 0 0 rg
+(Frontend\072) Tj
+/F1 8.85 Tf
+( React\054 Next\056js\054 Tailwind CSS\054 jQuery\054 Axios) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 36 614.4551 cm
+Q
+q
+1 0 0 1 36 603.1271 cm
+q
+BT
+1 0 0 1 0 2.478 Tm
+11.328 TL
+/F2 8.85 Tf
+0 0 0 rg
+(Databases\072) Tj
+/F1 8.85 Tf
+( MySQL\054 PostgreSQL\054 Supabase) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 36 601.8879 cm
+Q
+q
+1 0 0 1 36 590.5599 cm
+q
+BT
+1 0 0 1 0 2.478 Tm
+11.328 TL
+/F2 8.85 Tf
+0 0 0 rg
+(Platforms\072) Tj
+/F1 8.85 Tf
+( WordPress\054 WooCommerce\054 Shopify\054 Elementor) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 36 589.3207 cm
+Q
+q
+1 0 0 1 36 577.9927 cm
+q
+BT
+1 0 0 1 0 2.478 Tm
+11.328 TL
+/F2 8.85 Tf
+0 0 0 rg
+(DevOps \046 Tools\072) Tj
+/F1 8.85 Tf
+( Git\054 GitHub Actions\054 CI\057CD\054 Vercel\054 Docker \050basics\051\054 Postman\054 Figma) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 36 576.7534 cm
+Q
+q
+1 0 0 1 36 565.4254 cm
+q
+BT
+1 0 0 1 0 2.478 Tm
+11.328 TL
+/F2 8.85 Tf
+0 0 0 rg
+(Practices\072) Tj
+/F1 8.85 Tf
+( Debugging\054 API testing\054 responsive and cross\055browser testing\054 Agile\057Scrum) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 36 564.1862 cm
+Q
+q
+1 0 0 1 36 552.8582 cm
+q
+BT
+1 0 0 1 0 2.478 Tm
+11.328 TL
+/F2 8.85 Tf
+0 0 0 rg
+(AI \046 Data\072) Tj
+/F1 8.85 Tf
+( Scikit\055learn\054 NLP\057LLM integrations\054 ETL pipelines\054 data processing\054 dashboards) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 36 551.619 cm
+Q
+q
+1 0 0 1 36 544.9807 cm
+Q
+q
+1 0 0 1 36 533.4757 cm
+q
+0.078431 0.156863 0.294118 rg
+BT
+1 0 0 1 0 2.2125 Tm
+/F2 9.2925 Tf
+11.505 TL
+(PROFESSIONAL EXPERIENCE) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 36 532.6757 cm
+q
+0.8 w
+1 J
+0.078431 0.156863 0.294118 RG
+n
+0 0 m
+523.2756 0 l
+S
+Q
+Q
+q
+1 0 0 1 36 521.1707 cm
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2.301 Tm
+/F2 9.204 Tf
+11.505 TL
+(Web Developer \174 RawwGear) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 397.6894 0 cm
+q
+0.266667 0.266667 0.266667 rg
+BT
+1 0 0 1 0 2.655 Tm
+/F1 8.85 Tf
+11.505 TL
+47.86544 0 Td
+(Mar 2025 \226 Present) Tj
+T*
+-47.86544 0 Td
+ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 36 520.1707 cm
+Q
+q
+1 0 0 1 36 497.5147 cm
+q
+BT
+1 0 0 1 1 13.806 Tm
+/F1 8.85 Tf
+10.62 TL
+0 0 0 rg
+<7f> Tj
+ET
+0 0 0 rg
+BT
+1 0 0 1 11 13.806 Tm
+/F1 8.85 Tf
+11.328 TL
+(Own and maintain the production e\055commerce stack \050WooCommerce\054 custom PHP\054 frontend\051\054 including features\054 debugging and) Tj
+T*
+(releases\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 36 496.2755 cm
+Q
+q
+1 0 0 1 36 484.9475 cm
+q
+BT
+1 0 0 1 1 2.478 Tm
+/F1 8.85 Tf
+10.62 TL
+0 0 0 rg
+<7f> Tj
+ET
+0 0 0 rg
+BT
+1 0 0 1 11 2.478 Tm
+/F1 8.85 Tf
+11.328 TL
+(Developed custom PHP for WooCommerce\072 discount logic\054 product rules and coupon systems backed by MySQL queries \050wpdb\051\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 36 483.7083 cm
+Q
+q
+1 0 0 1 36 472.3803 cm
+q
+BT
+1 0 0 1 1 2.478 Tm
+/F1 8.85 Tf
+10.62 TL
+0 0 0 rg
+<7f> Tj
+ET
+0 0 0 rg
+BT
+1 0 0 1 11 2.478 Tm
+/F1 8.85 Tf
+11.328 TL
+(Optimized performance and resolved cross\055browser and production issues\054 improving responsive behavior and site reliability\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 36 471.1411 cm
+Q
+q
+1 0 0 1 36 459.8131 cm
+q
+BT
+1 0 0 1 1 2.478 Tm
+/F1 8.85 Tf
+10.62 TL
+0 0 0 rg
+<7f> Tj
+ET
+0 0 0 rg
+BT
+1 0 0 1 11 2.478 Tm
+/F1 8.85 Tf
+11.328 TL
+(Contributed to an approximately 30\045 reduction in user\055reported issues through debugging and reliability improvements\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 36 458.5739 cm
+Q
+q
+1 0 0 1 36 454.1484 cm
+Q
+q
+1 0 0 1 36 442.6434 cm
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2.301 Tm
+/F2 9.204 Tf
+11.505 TL
+(Frontend Engineer \174 OneSoul Pvt\056 Ltd\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 397.6894 0 cm
+q
+0.266667 0.266667 0.266667 rg
+BT
+1 0 0 1 0 2.655 Tm
+/F1 8.85 Tf
+11.505 TL
+40.48454 0 Td
+(Dec 2024 \226 Mar 2025) Tj
+T*
+-40.48454 0 Td
+ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 36 441.6434 cm
+Q
+q
+1 0 0 1 36 430.3154 cm
+q
+BT
+1 0 0 1 1 2.478 Tm
+/F1 8.85 Tf
+10.62 TL
+0 0 0 rg
+<7f> Tj
+ET
+0 0 0 rg
+BT
+1 0 0 1 11 2.478 Tm
+/F1 8.85 Tf
+11.328 TL
+(Built responsive sites from Figma designs using custom PHP themes\054 child themes and plugins \050OOP PHP\054 JavaScript\054 jQuery\051\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 36 429.0762 cm
+Q
+q
+1 0 0 1 36 417.7482 cm
+q
+BT
+1 0 0 1 1 2.478 Tm
+/F1 8.85 Tf
+10.62 TL
+0 0 0 rg
+<7f> Tj
+ET
+0 0 0 rg
+BT
+1 0 0 1 11 2.478 Tm
+/F1 8.85 Tf
+11.328 TL
+(Developed and maintained RESTful API integrations\073 implemented user authentication flows and third\055party service integrations\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 36 416.509 cm
+Q
+q
+1 0 0 1 36 393.853 cm
+q
+BT
+1 0 0 1 1 13.806 Tm
+/F1 8.85 Tf
+10.62 TL
+0 0 0 rg
+<7f> Tj
+ET
+0 0 0 rg
+BT
+1 0 0 1 11 13.806 Tm
+/F1 8.85 Tf
+11.328 TL
+(Debugged and optimized production frontends across 5\053 products \0501\054000\053 active users\051\073 reported \17640\045 faster page loads and) Tj
+T*
+(\17630\045 higher engagement\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 36 392.6138 cm
+Q
+q
+1 0 0 1 36 388.1883 cm
+Q
+q
+1 0 0 1 36 376.6833 cm
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 0 cm
+q
+BT
+1 0 0 1 0 2.301 Tm
+11.505 TL
+/F2 9.204 Tf
+0 0 0 rg
+(Web Developer \046 Automation Engineer \174 OSR Web Services) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 397.6894 0 cm
+q
+0.266667 0.266667 0.266667 rg
+BT
+1 0 0 1 0 2.655 Tm
+/F1 8.85 Tf
+11.505 TL
+44.41394 0 Td
+(Jul 2024 \226 Dec 2024) Tj
+T*
+-44.41394 0 Td
+ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 36 375.6833 cm
+Q
+q
+1 0 0 1 36 364.3553 cm
+q
+BT
+1 0 0 1 1 2.478 Tm
+/F1 8.85 Tf
+10.62 TL
+0 0 0 rg
+<7f> Tj
+ET
+0 0 0 rg
+BT
+1 0 0 1 11 2.478 Tm
+/F1 8.85 Tf
+11.328 TL
+(Delivered custom PHP plugins\054 WooCommerce customizations\054 server\055side features and REST API integrations for client sites\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 36 363.1161 cm
+Q
+q
+1 0 0 1 36 351.7881 cm
+q
+BT
+1 0 0 1 1 2.478 Tm
+/F1 8.85 Tf
+10.62 TL
+0 0 0 rg
+<7f> Tj
+ET
+0 0 0 rg
+BT
+1 0 0 1 11 2.478 Tm
+/F1 8.85 Tf
+11.328 TL
+(Worked directly with MySQL\072 schema design\054 custom queries and data manipulation for dynamic application features\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 36 350.5489 cm
+Q
+q
+1 0 0 1 36 339.2209 cm
+q
+BT
+1 0 0 1 1 2.478 Tm
+/F1 8.85 Tf
+10.62 TL
+0 0 0 rg
+<7f> Tj
+ET
+0 0 0 rg
+BT
+1 0 0 1 11 2.478 Tm
+/F1 8.85 Tf
+11.328 TL
+(Built Python automation scripts processing 1\054000\053 records daily\054 saving approximately 7 hours per week\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 36 337.9817 cm
+Q
+q
+1 0 0 1 36 326.6537 cm
+q
+BT
+1 0 0 1 1 2.478 Tm
+/F1 8.85 Tf
+10.62 TL
+0 0 0 rg
+<7f> Tj
+ET
+0 0 0 rg
+BT
+1 0 0 1 11 2.478 Tm
+/F1 8.85 Tf
+11.328 TL
+(Developed 3\053 React applications integrated with REST APIs\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 36 325.4145 cm
+Q
+q
+1 0 0 1 36 318.7762 cm
+Q
+q
+1 0 0 1 36 307.2712 cm
+q
+0.078431 0.156863 0.294118 rg
+BT
+1 0 0 1 0 2.2125 Tm
+/F2 9.2925 Tf
+11.505 TL
+(SELECTED PROJECTS) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 36 306.4712 cm
+q
+0.8 w
+1 J
+0.078431 0.156863 0.294118 RG
+n
+0 0 m
+523.2756 0 l
+S
+Q
+Q
+q
+1 0 0 1 36 294.9662 cm
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 0 cm
+q
+BT
+1 0 0 1 0 2.301 Tm
+11.505 TL
+/F2 9.204 Tf
+0 0 0 rg
+(AI Product Analytics Copilot ) Tj
+/F1 8.14 Tf
+0.266667 0.266667 0.266667 rg
+(\174 React\054 TypeScript\054 Supabase\054 PostgreSQL\054 JWT\054 LLM) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 523.2756 0 cm
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 36 284.1692 cm
+q
+BT
+1 0 0 1 0 2.478 Tm
+10.797 TL
+/F1 8.319 Tf
+0.266667 0.266667 0.266667 rg
+(Live\072 ) Tj
+0.121569 0.305882 0.611765 rg
+(product\055analytics\055copilot\056vercel\056app) Tj
+0.266667 0.266667 0.266667 rg
+(  ) Tj
+(\174) Tj
+(  Code\072 ) Tj
+0.121569 0.305882 0.611765 rg
+(github\056com\057HanshikaJ21\057product\055analytics\055copilot) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 36 283.1692 cm
+Q
+q
+1 0 0 1 36 260.5132 cm
+q
+BT
+1 0 0 1 1 13.806 Tm
+/F1 8.85 Tf
+10.62 TL
+0 0 0 rg
+<7f> Tj
+ET
+0 0 0 rg
+BT
+1 0 0 1 11 13.806 Tm
+/F1 8.85 Tf
+11.328 TL
+(Built a full\055stack analytics platform with React\057TypeScript\054 Supabase\057PostgreSQL\054 REST API backend functionality and role\055based) Tj
+T*
+(JWT authentication\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 36 259.274 cm
+Q
+q
+1 0 0 1 36 247.946 cm
+q
+BT
+1 0 0 1 1 2.478 Tm
+/F1 8.85 Tf
+10.62 TL
+0 0 0 rg
+<7f> Tj
+ET
+0 0 0 rg
+BT
+1 0 0 1 11 2.478 Tm
+/F1 8.85 Tf
+11.328 TL
+(Built KPI dashboards and an LLM\055powered natural\055language query engine\073 deployed through CI\057CD\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 36 246.7068 cm
+Q
+q
+1 0 0 1 36 242.2813 cm
+Q
+q
+1 0 0 1 36 230.7763 cm
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 0 cm
+q
+BT
+1 0 0 1 0 2.301 Tm
+11.505 TL
+/F2 9.204 Tf
+0 0 0 rg
+(Apartment Price Tracker ) Tj
+/F1 8.14 Tf
+0.266667 0.266667 0.266667 rg
+(\174 Python\054 GitHub Actions\054 PostgreSQL\057MySQL\054 Streamlit) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 523.2756 0 cm
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 36 219.9793 cm
+q
+BT
+1 0 0 1 0 2.478 Tm
+10.797 TL
+/F1 8.319 Tf
+0.266667 0.266667 0.266667 rg
+(Live\072 ) Tj
+0.121569 0.305882 0.611765 rg
+(apartmenttracker\055seyd9ssqca2j5lrsprrkjq\056streamlit\056app) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 36 218.9793 cm
+Q
+q
+1 0 0 1 36 207.6513 cm
+q
+BT
+1 0 0 1 1 2.478 Tm
+/F1 8.85 Tf
+10.62 TL
+0 0 0 rg
+<7f> Tj
+ET
+0 0 0 rg
+BT
+1 0 0 1 11 2.478 Tm
+/F1 8.85 Tf
+11.328 TL
+(Built an automated ETL pipeline \050Python\054 GitHub Actions\051 tracking 500\053 property listings weekly in PostgreSQL\057MySQL\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 36 206.4121 cm
+Q
+q
+1 0 0 1 36 195.0841 cm
+q
+BT
+1 0 0 1 1 2.478 Tm
+/F1 8.85 Tf
+10.62 TL
+0 0 0 rg
+<7f> Tj
+ET
+0 0 0 rg
+BT
+1 0 0 1 11 2.478 Tm
+/F1 8.85 Tf
+11.328 TL
+(Built a REST API backend and an interactive Streamlit dashboard for visualization and analysis\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 36 193.8449 cm
+Q
+q
+1 0 0 1 36 189.4195 cm
+Q
+q
+1 0 0 1 36 177.9145 cm
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 0 cm
+q
+BT
+1 0 0 1 0 2.301 Tm
+11.505 TL
+/F2 9.204 Tf
+0 0 0 rg
+(AI Resume Verifier ) Tj
+/F1 8.14 Tf
+0.266667 0.266667 0.266667 rg
+(\174 Next\056js\054 TypeScript\054 FastAPI\054 Python\054 NLP) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 523.2756 0 cm
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 36 167.1175 cm
+q
+BT
+1 0 0 1 0 2.478 Tm
+10.797 TL
+/F1 8.319 Tf
+0.266667 0.266667 0.266667 rg
+(Live\072 ) Tj
+0.121569 0.305882 0.611765 rg
+(ai\055resume\055verifier\055beta\056vercel\056app) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 36 166.1175 cm
+Q
+q
+1 0 0 1 36 154.7895 cm
+q
+BT
+1 0 0 1 1 2.478 Tm
+/F1 8.85 Tf
+10.62 TL
+0 0 0 rg
+<7f> Tj
+ET
+0 0 0 rg
+BT
+1 0 0 1 11 2.478 Tm
+/F1 8.85 Tf
+11.328 TL
+(Built an AI\055assisted resume\057job\055description matching app\072 Next\056js\057TypeScript frontend\054 FastAPI\057Python backend\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 36 153.5503 cm
+Q
+q
+1 0 0 1 36 149.1248 cm
+Q
+q
+1 0 0 1 36 137.6198 cm
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 0 cm
+q
+BT
+1 0 0 1 0 2.301 Tm
+11.505 TL
+/F2 9.204 Tf
+0 0 0 rg
+(Loan Prediction System ) Tj
+/F1 8.14 Tf
+0.266667 0.266667 0.266667 rg
+(\174 Python\054 Scikit\055learn\054 Flask\054 REST APIs) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 523.2756 0 cm
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 36 136.6198 cm
+Q
+q
+1 0 0 1 36 125.2918 cm
+q
+BT
+1 0 0 1 1 2.478 Tm
+/F1 8.85 Tf
+10.62 TL
+0 0 0 rg
+<7f> Tj
+ET
+0 0 0 rg
+BT
+1 0 0 1 11 2.478 Tm
+/F1 8.85 Tf
+11.328 TL
+(Built a Scikit\055learn classification pipeline \050\17692\045 accuracy\051 and exposed the model through a Flask RESTful JSON API\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 36 124.0526 cm
+Q
+q
+1 0 0 1 36 117.4143 cm
+Q
+q
+1 0 0 1 36 105.9093 cm
+q
+0.078431 0.156863 0.294118 rg
+BT
+1 0 0 1 0 2.2125 Tm
+/F2 9.2925 Tf
+11.505 TL
+(EDUCATION) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 36 105.1093 cm
+q
+0.8 w
+1 J
+0.078431 0.156863 0.294118 RG
+n
+0 0 m
+523.2756 0 l
+S
+Q
+Q
+q
+1 0 0 1 36 93.6043 cm
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2.301 Tm
+/F2 9.204 Tf
+11.505 TL
+(B\056E\056 Information Technology \226 VESIT\054 Mumbai) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 397.6894 0 cm
+q
+0.266667 0.266667 0.266667 rg
+BT
+1 0 0 1 0 2.655 Tm
+/F1 8.85 Tf
+11.505 TL
+76.38014 0 Td
+(2020 \226 2023) Tj
+T*
+-76.38014 0 Td
+ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 36 92.1043 cm
+Q
+q
+1 0 0 1 36 80.5993 cm
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2.301 Tm
+/F2 9.204 Tf
+11.505 TL
+(Diploma in Computer Engineering \226 VES Polytechnic\054 Mumbai) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 397.6894 0 cm
+q
+0.266667 0.266667 0.266667 rg
+BT
+1 0 0 1 0 2.655 Tm
+/F1 8.85 Tf
+11.505 TL
+76.38014 0 Td
+(2017 \226 2020) Tj
+T*
+-76.38014 0 Td
+ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 36 73.961 cm
+Q
+q
+1 0 0 1 36 62.456 cm
+q
+BT
+1 0 0 1 0 2.2125 Tm
+11.505 TL
+/F2 9.2925 Tf
+0.078431 0.156863 0.294118 rg
+(CERTIFICATIONS \046 ACHIEVEMENTS) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 36 61.656 cm
+q
+0.8 w
+1 J
+0.078431 0.156863 0.294118 RG
+n
+0 0 m
+523.2756 0 l
+S
+Q
+Q
+q
+1 0 0 1 36 39 cm
+q
+BT
+1 0 0 1 0 13.806 Tm
+11.328 TL
+/F1 8.85 Tf
+0 0 0 rg
+(React\056js Certification  ) Tj
+(\174) Tj
+(  Web Development Certification \226 Maharashtra Technical \046 Self\055Employment Training Society  ) Tj
+(\174) Tj
+(  2nd Prize \226) Tj
+T*
+(Technical Paper Presentation) Tj
+T*
+ET
+Q
+Q
+
+endstream
 endobj
 12 0 obj
 <<
-/PageMode /UseNone /Pages 14 0 R /Type /Catalog
+/F1 13 0 R
+/F2 14 0 R
 >>
 endobj
 13 0 obj
 <<
-/Author (Hanshika Jasuja) /CreationDate (D:20261005093610+00'00') /Creator (anonymous) /Keywords () /ModDate (D:20261005093610+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (unspecified) /Title (Hanshika Jasuja - Software Engineer Resume) /Trapped /False
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 14 0 obj
 <<
-/Count 1 /Kids [ 11 0 R ] /Type /Pages
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 15 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 4469
+/Author (Hanshika Jasuja)
+/CreationDate (D\07220261005093610\05300\04700\047)
+/Creator (anonymous)
+/Keywords ()
+/ModDate (D\07220261005093610\05300\04700\047)
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Subject (unspecified)
+/Title (Hanshika Jasuja \055 Software Engineer Resume)
+/Trapped /False
 >>
-stream
-Gb!#_>BAQ-&q801^e6c7M$+LM4af>NX>Fs/>Hu]?S/K(<,UC4'8;.jAl?)mW])]$t@-1q=BerI/'-sh)G/+!!!>D9F+!UaYf*K'XU#WTb&W10.6k!n)fbb0200[)mj[e2o[R7<0]+3Ts(U.L5L/&:,VWCo@_ULFKEDWrg!Das5$Rhm*RV9-a2c)n"CqI,)?:/k:&b-q%BUBXdJ\eYm*PM'=FN&/]FQTFqNV=(1DU@`7W4tD&-MJS\lqYpYYcC_$0b\Z6Xior@JmCaf'IKaZ+r2oU#u9MLG4-^c%AP51(e`4_B_$%mY,Q!MV!ksqTC>QUI(tI>L2YN"bP?>XIU%95)GXr/A26arqf^hj[*NbH[;BX8r[$%5L81$2n(D?AdQF7,QroRg0-G9]KR%%g*<E8r)cI.DZOd%0QK[Np?dCml6_c'f*kFPHgoq&q0tLi[3+LPn&X(-RrDicJd&L?n)nD,rr-,^FG_l<CI5(;Y9DZ(dM<3C>2Hlc\kH"g*Yd!6QSX/"7[OfZX\h,9D4N0`kf1a5Y#[;u7Q74BrH$%42*f6j<oB<\>XC#)\-WJ\;8r7O=BANgOJ`Xik*A:djCmE?.X/jl4UZ=MLW4$FS-eT[RH&V2oij02CRn^RA]3qY*7)PI%Wn`h"fJFWcT@B];J=;pcc_JV4jkJa93kDs`)5HHbkN=3os0(RcS055E>tr4&pMfNd_>.@7qBD*3Y)s$\7;^M*0-Qc*51]jj'FZ90XN@+'>GGC6jKu-\31j.&U;MDrQ:#i+L\410("tDr8Q!,cm*g\8S4,V/o:1ToQV6C.!J96e1AG4(h^!3'q\bG>FO0(T(,4g`-bcK,:W3U4XBl(Y;+"R.ZgEJ^++"RPStF,;QTU#MY^UkJGZ=8OI*UA"O`0Fu7!CbMdqkF+pt.q7S**EuB\>alrut4h*^$0GJ%WnuRf?OIT!:,96Nab'j6`:(=^rS4`1=RCQH;$hJVd^)`G9b**&e!C)iub"""7aEA0`f4?KMQ=DO@&m0Ps%u"bQDH]EjM;k7@ai/--^'a:#HppJ\F*]hD,4Gk9UDR<\*+k#MO6T0=)4%o.,2o3&MYD$L@10K^o0^sk+*-P)<lE:E:)1_A()gLr^@G0\F^+dLQ@GfoM0WOU\`;RKpp1.g#Y+H3;ZUP^@>2"mYTmO_T<>2%=5U*JpN3uRg,343'u^[.Z&;\qXH6ddXFc-F@A%h5C7]b;(nU]n#'S7Vf";2^eKX,)cVc2&'ZhK]#O"8DUoC''Z;,1%*NLsDla(NN?U&049-QP3fdgX&T3H]?lA\rW%Z&a-W#HloY%ai#Usg)dgf!Pa=#F"[^3(-g)F4:1j'0?LZ^fl\jQJi`:P#7+>)<2E7g)/Qj<3^8,QU;'E3&bghh(I:o+2uAhjh6>>#0^cK-`9FXaDVjP-g%Ne7-Q[J9+B5OY&sWWh%U%7-O0RUW8-e'R]<,U:=O%[f:@jGbh`58-?j?hF@`kRK@FK>Sa%UbVd[bF$+6"Q5,V0,75K*(7?E]&ZJ9e?X%:9+n_iP2YNfu('9ZMiIBIYJgD&^)>I2#bQZFe:S$8FDrj%sI0Y8gdPrd'pWd>?)5@$%2R*r85rT,p%Q+Z,CRE"OT(q$Ve7K;.b?d'g/qlA!GJb65(HWM+68UBI*ZqeET$D,RN-cui6?A_Va/r/SmXjX5&:p?,"pT7WL(W08M<feIGX^@!fh;AO7;d3oD+\p$i'5/ok/ffp\n4=UH25/62^56P6pCN2)#*(/_'$P?K7+U'cO_a)$opf\tnJ1N8dL6o(*Z'PTali=s(6<P1?L4NW#mD:n0;CKc'YM:/tD_esD%5.q':'5SdL75Y8@8]$5_8Opk6d[DG$C[JH4m47-SVIG]155RXZp;us4UaN)W.k"Y@D%^+pm$&Qs!p(G_]ZHIe;:>*^%^L6l%(%!:Tp)u0l62Yhup"B%@hbOU)L,c25M'$$je1]QVP/FlRBPLTrQYAmThT`&<drdbXbo`@qW(c[c@KH@<G:\>L!T<TNV?di3Sk=jmkUhWB*:4Y]e^9qL4hJ:musJ!=%@O'n2a+BJ23sU.k'.>\ccg(<jtm7##PIA`A]W3_:0A5313g\S\jBn6_H$"-m*_GRfk;$0q%GWZTdL=F"o563KU6D(!od.,_'Hk>2D;nWNd_$>>[b+\N1aO)pt:P]"s/X]%%mMD@HgD:s(.R#>uU$H#Rl^OFiFR\O@sF&[J2YTYo)SYg$'mBWZ,_8')/.:E4+M8ME`T@_#XQ?2URc%TZt2>lr=3*%O[cIp@Pj)K';atj5<6gi3EaKo_BDDmS"0W5=;e&;gE%oq\si\l<H9DCWq!2(kI"%?iFM*H!YSlrQl](QdS>GDn+*5Lkf9QYqU_(T5L85J5m\_7M92Fo-s;?D:o4A?'M[]W6)L'c90@T7Kl!*V:&j-c*+<JRqC^R#P%`_`!rmP9a@=jUUEGKN1>.+c]n"._2SA0@Yg5ZL!_;UE_QXqYC`UrIZZP-/5a.&?18qJt!6BuR1[ePtUmFWnuF5?#:t)dY+BKiGGqiU<sp(mNnbM?n9*fsE0.p\P7s3Vb]+Ub:j\V'IsTBKRainINc%mJIE#Wuf/b5;2t(`,ef&_5LW0l#,g&&H^5"a0f+X0^oRPPFZ?/6Ur\HCD@`N0'EmGQ$&ZuoFs/_M-Sg]TdI*F;?kL0)$lY6Wlr8]85I^A=%JQmi3<>UW$m-]28fE1!!=l:aPdHZGY88:h@%aPg%2ZqknRR.?jM[V0M!`g-a(#g,XQTC"g$`L!N/Wa]%u4Hq0J?,PAA'@4#G]ne#p(X)4`V/h)=^sYE0S]/UXXpI/?[GCLDeYDFM0M&2k!b<[?JIm`t#Kg=:&H#(?LaeCqL5%"`,'Nt>PTg"!,LDsh_"b3NV?+0Go2!&]o0JCW@[#*N^7+dEtu&%QBQ94mYdE(e6)==WF/6h,%Uc4<r^+6#]PnUN"2cTl3d9`uoi?_c,+$rj((\h^9"HbF+o,+!6=Y[h!(-eLoFReuL.SJp-uZqLpuL8-"t*C>p(LTSH9OP::iG>aibdoHh]Q&H'S`X+>1i:1ao^?/!e^T26h[#4H#'f?*)BC*&G,MgAB6W>AA:4X6V>ucLVO>O,TWcm[]gO*!T_#W_9ooXlEZ`+71V;/c7M1]ZQYgG<IWbb"o][o"]Ne`8?n.\U"0$iHSkLPp$=b'X<M^Rk3_&_19/GdSin772!AYFTOmm@TE%1hJ-[5t&#ptXP^^T*9Vp.e_tbHSVQ+SU]3j7<M<DLkf6Jg-7Q#HB`+mI'uAS]&m3q`-aXOF(;`r[:.5\GGmdD;R!CgHX*T<@91!EUY8-=!-'SIW/%f/kmA"L2m6V"XHib<AF$FR^h9j%mf:gp5;u/6_!5d#EMk;\8tcFecYMa>BGut;I+XT\KI@NEQJ"9`^Uadm`9Sb*Ao"uCfPaR%:FY&qDVs#hZ/=AMaCU]G<R/_l.ugF@C\*FA]%O_#,%31.8NcrDGSrlq>:6sC09->/6/r?%A7NmW5L.823AlM]3%$)Q)6Yd1.am53D2KF?2'WF=IfcNh[=85o!mJOSRr3"f&2=EUdsERf64d8`P3?TH510t!EVKsgV?P4O1n,&bV2UI8TK1L&Z:o!m1Wl"T)iY&RBqALUk**?+'c4<,ZTao(@5iH6=m<CJa8Xn@O/mf.<Ho@364TtTodHgdSq\f&=5L?n<WJr'4M-r8-'TJ9rp@p&$B"a?9_iXP(eS'9Zfgo*>K#faU7-iV`Bk4T?RBcR2Su[/OG<Xp)&Oa4s>poYdl639#R-K;S#&q8@r>F^1QBG!+56!B:n>U8h2^3p!O7FDpBk=N$j\H*+ISt,:iK"SqhB35ERYmmn/uDF-_*/,Gn(oYcN0=qj0uD*2rbNgNYTlS;d:c<2QXfR)7eARs<eFia+7=L]cQWIoVf4YH-2laeHA'=F7l(=ULK=fH!)ON_NGNEA91Q=<^+tg'O"U(3((E=2/P?N+7BS!^_VXmF/&i^AQRS]mCs!4;)jWeG^D^8%35`p+J_V9O6ZU.m.bU"QY?T)&H:sW0QiNG3MfDo6jGrrYEqP+D:C^';n_Z1:2dF-`gmS=.jhX%'eP#WIZpj=t7UL/_UV*-e1oWC@3<rNC2)d(nU^j315aY0088)D^WfaT<O(N3R-!2D\gDDYP<]4b;X[%d3t0)jO+3Db[3eY(b`?eYPO==F9Dbsn]Ms!h*ne)EL<EueJbGbXdBiNWXn1aG=QducWpm9Vt;GDMIkCfDY-^bP[A3%Lr2NkhW/-MVqT'#$(tH&OH*-kMj4m048pOA60rnLZu9%S>K<nP+`@CFR>9mH4,+::7N'G]ZN3**%'O9<\"b.cVde\"n8:)\@sC2Mk\_>C"G!bK52^S6q-3N[n7FhPPTZGAi[jg(lA^P8pR>'_m4qfLmuB"r!N`p:F?*;U7JOdN&-/0)E7#c1leestijnjOO_O0'"uX^*]-u_GW3cM7o!ro+V0V4A'>=)0gmahM*q8C457JS)<<~>endstream
 endobj
 xref
 0 16
 0000000000 65535 f 
-0000000061 00000 n 
-0000000102 00000 n 
-0000000209 00000 n 
-0000000321 00000 n 
-0000000523 00000 n 
-0000000704 00000 n 
-0000000893 00000 n 
-0000001089 00000 n 
-0000001297 00000 n 
-0000001510 00000 n 
-0000001705 00000 n 
-0000001966 00000 n 
-0000002036 00000 n 
-0000002338 00000 n 
-0000002399 00000 n 
+0000000015 00000 n 
+0000000083 00000 n 
+0000000142 00000 n 
+0000000398 00000 n 
+0000000627 00000 n 
+0000000823 00000 n 
+0000001030 00000 n 
+0000001247 00000 n 
+0000001479 00000 n 
+0000001710 00000 n 
+0000001929 00000 n 
+0000017251 00000 n 
+0000017295 00000 n 
+0000017403 00000 n 
+0000017516 00000 n 
 trailer
 <<
-/ID 
-[<923e49e1f8f01553f2bb5896821c2cde><923e49e1f8f01553f2bb5896821c2cde>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 13 0 R
-/Root 12 0 R
 /Size 16
+/Root 1 0 R
+/Info 15 0 R
+/ID [ <923e49e1f8f01553f2bb5896821c2cde> <923e49e1f8f01553f2bb5896821c2cde> ]
 >>
 startxref
-6960
+17849
 %%EOF
